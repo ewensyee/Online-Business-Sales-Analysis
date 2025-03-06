@@ -19,6 +19,7 @@ The online business sales analysis from 2017 to 2019 shows a steady growth in to
 
 <img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/712d9108b74dac574bec79e1d3a881577c10e564/Data/shipping_costs.jpg" width = 100%>
 <img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/120b4f0c4bb082555b27d8feed33d13b196f0233/Data/average_shipping_costs.jpg" width = 100%> 
+
 ### Monthly Sales Growth Analysis
 - Sales growth is consistently high in November and December across all three years, likely due to holiday shopping such as Black Friday and Christmas.
 - Sales during February and October often show negative growth which could indicate slower sales during these months.
