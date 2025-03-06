@@ -13,3 +13,55 @@ The online business sales analysis from 2017 to 2019 shows a steady growth in to
 - The largest year-over-year increase occurred between 2017 and 2018, with an increase of 15% in shipping costs.
   - 2019 saw a smaller increase of 3.6%, suggesting either a stabilization in sales or a slower growth rate in shipping costs.
 - Rising shipping prices could indicate external and internal factors.
+  - Higher fuel costs could directly impact shipping carrier rates.
+  - Major carriers such as FedEx, UPS and USPS adjust their rates annually, which could contribute to increased shipping costs.
+  - The shipping method could have changed to a faster delivery option which could have increased the shipping costs.
+ 
+### Monthly Sales Growth Analysis
+- Sales growth is consistently high in November and December across all three years, likely due to holiday shopping such as Black Friday and Christmas.
+- Sales during February and October often show negative growth which could indicate slower sales during these months.
+  - February often gets a decline in sales due to reduced spending after the holidays.
+- April and June often show strong growths in 2017 and 2018 which could be due to seasonal promotions.
+
+### Discounts and Returns Analysis
+- March, May, October and December consistently have high returns each year.
+- Returns seem to be increasing every year from 2017 to 2019.
+  - Whereas in 2017, returns were mostly below -500 except for March which had a low of -1017.2.
+  - 2018 showed more negative values with spikes at May (-1448) and June (-1506)
+  - 2019 showed a more negative spike in October at -1572.
+  - This suggests that each year there are increased customer dissatisfaction and product issues, or it could be from the increase of total orders each year.
+- There appears to be a correlation between discounts and returns, as discounts increase, returns tend to increase, especially in 2019.
+
+### Sales Performance and Discount Impact
+- Total orders and discounts increased significantly each year, with 2019 seeing the highest numbers.
+- Discounts likely increased the total orders per year, but may have reduced the profit margins or reduced in loyal customers.
+- Discounts are increasing at a much faster rate than sales growth as discounts are more than tripled from 2017 to 2019 while the sales growth is not as high.
+
+### Returns by Project Category Analysis
+- Both Basket and Art & Sculpture have the highest quantity sold, but even with similar net quantity, the Basket category is much higher than Art & Sculpture.
+  - Both of these categories have the highest net quantity with the highest returns, this could be due to quality issues or mismatched products.
+-Both Jewelry and Kitchen have high net quantity with low returns compared to the top other.
+-The categories with a low return or no returns tend to be in the niche market.
+
+## Recommendations
+
+Maximise Product Offerings
+
+- **Expand High-Performing Categories**: Focus on categories like Jewelry, Kitchen and the niche ones, which have low returns and high customer satisfaction, by adding more product variations or premium options.
+- **Optimise Low-Performing Categories**: Focus on high-return categories such as Basket and Art & Sculpture, address product quality concerns, improve product description or adjust pricing to reduce return rates.
+
+Enhance Customer Growth and Retention
+
+- **Increase Repeat Purchases**: Introduce a loyalty program with rewards to incentivise repeat purchases and improve customer retention.
+- **Retain Current or New Customers**: Use targeted marketing campaigns on social media such as Facebook, Tiktok, Instagram, and email to re-engage with past customers and attract new ones.
+
+Maintaining Low Refund Rates
+
+- **Sustain Successful Practices**: Replicate effective strategies from 2017 where return rates were at its lowest, such as including detailed product description, maintaining strict quality control to maintain low refund rates and meet customer expectations.
+- **Improve Quality Control**: Invest in better quality control processes to reduce the number of returns especially from high-return categories.
+
+Improving Shipping Costs
+
+- **Negotiate Carrier Rates**: Work with shipping carriers to negotiate better shipping costs or find better cost-efficient shipping methods.
+- **Improve Packaging**: Use more durable packaging to reduce the damage during shipping, which will reduce the returns.
+
