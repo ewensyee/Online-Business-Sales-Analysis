@@ -17,7 +17,6 @@ The online business sales analysis from 2017 to 2019 shows a steady growth in to
   - Major carriers such as FedEx, UPS and USPS adjust their rates annually, which could contribute to increased shipping costs.
   - The shipping method could have changed to a faster delivery option which could have increased the shipping costs.
 
-![](https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/712d9108b74dac574bec79e1d3a881577c10e564/Data/shipping_costs.jpg)
 <img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/712d9108b74dac574bec79e1d3a881577c10e564/Data/shipping_costs.jpg" width = 100%>
 <img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/120b4f0c4bb082555b27d8feed33d13b196f0233/Data/average_shipping_costs.jpg" width = 100%> 
 ### Monthly Sales Growth Analysis
