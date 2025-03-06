@@ -19,12 +19,14 @@ The online business sales analysis from 2017 to 2019 shows a steady growth in to
 
 ![](https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/712d9108b74dac574bec79e1d3a881577c10e564/Data/shipping_costs.jpg)
 <img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/712d9108b74dac574bec79e1d3a881577c10e564/Data/shipping_costs.jpg" width = 100%>
- 
+<img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/120b4f0c4bb082555b27d8feed33d13b196f0233/Data/average_shipping_costs.jpg" width = 100%> 
 ### Monthly Sales Growth Analysis
 - Sales growth is consistently high in November and December across all three years, likely due to holiday shopping such as Black Friday and Christmas.
 - Sales during February and October often show negative growth which could indicate slower sales during these months.
   - February often gets a decline in sales due to reduced spending after the holidays.
 - April and June often show strong growths in 2017 and 2018 which could be due to seasonal promotions.
+
+<img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/120b4f0c4bb082555b27d8feed33d13b196f0233/Data/monthly_sales.jpg" width = 100%>
 
 ### Discounts and Returns Analysis
 - March, May, October and December consistently have high returns each year.
@@ -35,16 +37,23 @@ The online business sales analysis from 2017 to 2019 shows a steady growth in to
   - This suggests that each year there are increased customer dissatisfaction and product issues, or it could be from the increase of total orders each year.
 - There appears to be a correlation between discounts and returns, as discounts increase, returns tend to increase, especially in 2019.
 
+<img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/120b4f0c4bb082555b27d8feed33d13b196f0233/Data/discount_returns.jpg" width = 100%>
+
 ### Sales Performance and Discount Impact
 - Total orders and discounts increased significantly each year, with 2019 seeing the highest numbers.
 - Discounts likely increased the total orders per year, but may have reduced the profit margins or reduced in loyal customers.
 - Discounts are increasing at a much faster rate than sales growth as discounts are more than tripled from 2017 to 2019 while the sales growth is not as high.
+
+<img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/120b4f0c4bb082555b27d8feed33d13b196f0233/Data/monthly_sales.jpg" width = 100%>
 
 ### Returns by Project Category Analysis
 - Both Basket and Art & Sculpture have the highest quantity sold, but even with similar net quantity, the Basket category is much higher than Art & Sculpture.
   - Both of these categories have the highest net quantity with the highest returns, this could be due to quality issues or mismatched products.
 -Both Jewelry and Kitchen have high net quantity with low returns compared to the top other.
 -The categories with a low return or no returns tend to be in the niche market.
+
+<img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/120b4f0c4bb082555b27d8feed33d13b196f0233/Data/monthly_sales.jpg" width = 100%>
+<img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/120b4f0c4bb082555b27d8feed33d13b196f0233/Data/monthly_sales.jpg" width = 100%>
 
 ## Recommendations
 
