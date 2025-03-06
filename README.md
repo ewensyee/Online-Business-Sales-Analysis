@@ -11,5 +11,5 @@ The online business sales analysis from 2017 to 2019 shows a steady growth in to
 ### Shipping Costs Analysis
 - The average shipping costs increased by 19% from 2017 to 2019, rising from $14.42 to $17.17 per order.
 - The largest year-over-year increase occurred between 2017 and 2018, with an increase of 15% in shipping costs.
--- 2019 saw a smaller increase of 3.6%, suggesting either a stabilization in sales or a slower growth rate in shipping costs.
+  - 2019 saw a smaller increase of 3.6%, suggesting either a stabilization in sales or a slower growth rate in shipping costs.
 - Rising shipping prices could indicate external and internal factors.
