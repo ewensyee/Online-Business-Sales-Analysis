@@ -44,7 +44,7 @@ The online business sales analysis from 2017 to 2019 shows a steady growth in to
 - Discounts likely increased the total orders per year, but may have reduced the profit margins or reduced in loyal customers.
 - Discounts are increasing at a much faster rate than sales growth as discounts are more than tripled from 2017 to 2019 while the sales growth is not as high.
 
-<img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/120b4f0c4bb082555b27d8feed33d13b196f0233/Data/monthly_sales.jpg" width = 100%>
+<img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/418a8da2dfb10369e61aeb610f6eab04a8e4e2f5/Data/sales_performance.jpg" width = 100%>
 
 ### Returns by Project Category Analysis
 - Both Basket and Art & Sculpture have the highest quantity sold, but even with similar net quantity, the Basket category is much higher than Art & Sculpture.
@@ -52,8 +52,8 @@ The online business sales analysis from 2017 to 2019 shows a steady growth in to
 -Both Jewelry and Kitchen have high net quantity with low returns compared to the top other.
 -The categories with a low return or no returns tend to be in the niche market.
 
-<img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/120b4f0c4bb082555b27d8feed33d13b196f0233/Data/monthly_sales.jpg" width = 100%>
-<img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/120b4f0c4bb082555b27d8feed33d13b196f0233/Data/monthly_sales.jpg" width = 100%>
+<img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/418a8da2dfb10369e61aeb610f6eab04a8e4e2f5/Data/returns_category_table.jpg" width = 100%>
+<img src="https://github.com/ewensyee/Online-Business-Sales-Analysis/blob/120b4f0c4bb082555b27d8feed33d13b196f0233/Data/returns_category_chart.jpg" width = 100%>
 
 ## Recommendations
 
