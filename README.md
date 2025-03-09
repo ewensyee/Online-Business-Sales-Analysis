@@ -1,6 +1,6 @@
 # Online-Business-Sales-Analysis
 
-original dataset: 
+Dataset Link: 
 
 ## Project Background
 This project is about the analysis of the sales performance of an online retail business from 2017 to 2019. The dataset contains details recorded for sales transactions with the gross sales, discounts, returns, shipping costs, and product category metrics. The purpose of this analysis is to observe trends, generate actionable insights, and provide data-driven recommendations to help in improving the performance of business across sales, marketing, and operations. Through the observation of the trends in sales growth, customer behavior, and operational efficiency, the specific aim of this project is to enable the business to capitalize on its best strategies towards social and sustainable growth in a competitive online business environment.
